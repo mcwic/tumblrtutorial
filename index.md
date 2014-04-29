@@ -12,6 +12,6 @@ title: Tumblr Tutorial
 3. [Background Color](./contents/backgroundcolor)
 4. [Links](./contents/linkcolor)
 5. [Image Borders](./contents/imageborder)
-6. [Search Bar](./contents/searchbar)
+6. [Search Bar](./contents/search)
 7. [Likes & Tumblr Documention](./contents/likes)
 8. [Afterward](./contents/afterward)
