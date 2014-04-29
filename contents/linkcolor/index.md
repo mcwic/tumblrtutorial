@@ -5,54 +5,19 @@ title: Changing Link Color
 
 # Changing the Color of Links
 
-Remember, the code to create a link is <pre><xmp> <a href="[URL HERE]"/> </xmp></pre>
-Thus, you're looking in the CSS for the a, a:hover, and a:visited selectors.
+Can you change the color and appearance of the links on your Tumblr page? Can you change what the links look like when you hover over them? What about after they've been visited?
 
-<div class="row">
-  <div class="col-md-6">
+<a href="../linkcolor_solution"><button type="button" class="btn btn-primary btn-lg">Having a bit of trouble? Click here for the solution.</button></a>
 
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">Code</h3>
-      </div>
-      <div class="panel-body">
-        <pre><code>
-     &lt;style&gt;
-      body { 
-        margin: 0; 
-        padding: 20px;
-        <b>background-color: <i>green</i>; </b>
-        font-family: arial;
-        font-size: 0.75em;
-        color: blue;
-      }
-     <b> a {  //this is the link as you see it on the page
-			  color: black;
-			  text-decoration: underline;
-		  }
-		
-	  	a:hover {	//this is the link when the mouse is hovering over it
-			  color: white;
-			  background: red;
-		  }
-			
-		  a:visited{	//this is the link after it is visited
-		    color:blue;
-		  }</b>
-
-          </code></pre>
-      </div>
-    </div>
-  
-  </div>
-</div>
-
-You want to change the code in the bold section. You can use the color selector to refer to the text color, see [here](http://mcwic.github.io/htmlblocks/htmlBuildingBlocks.html) and [here](https://www.youtube.com/watch?v=n9HoTInjjUs&index=9&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt) for more information on CSS font attributes.
 ---
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../linkcolor"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+    <a href="../backgroundcolor"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+  </div>
+  iv class="row">
+  <div class="col-md-1">
+    <a href="../linkcolor"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
