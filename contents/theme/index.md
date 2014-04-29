@@ -7,17 +7,17 @@ title: Adding the Theme Template
 
 <ul>
 <li> Click "Edit HTML" </li>
-
 <img src="../tumblrStep5.png"/>
-
+<br><br>
 <li> Copy all of the HTML from mcwic.github.io/htmlblocks/tumblrTheme.html </li>
-
+<br><br>
 <li> Replace the code on the Tumblr page with the code from mcwic.github.io/htmlblocks/tumblrTheme.html </li>
 </ul>
-Before:
+
+<h3>Before:</h3>
 <img src="../tumblrStep6.png"/>
 
-After: 
+<h3>After:</h3>
 <img src="../tumblrStep7.png"/>
 ---
 

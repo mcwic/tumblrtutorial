@@ -15,7 +15,7 @@ title: Setting Up Your Tumblr Blog
 <li> When asked about getting the Tumblr app, select "I'll get it later":</li>
 
 <img src="../tumblrStep3.png"/>
-<br>
+<br><br>
 <li> Click "Customize" on the right panel.</li>
 
 <img src="../tumblrStep4.png"/>
