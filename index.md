@@ -8,16 +8,10 @@ title: Tumblr Tutorial
 ### Tumblr
 0. [Creating a Tumblr Account](./contents/start)
 1. [Setting up your Tumblr Blog](./contents/setup)
-1. [Adding the Theme Template](./contents/theme)
-2. [Changing the Background Color](./contents/backgroundcolor)
-3. [Headings](./contents/headings)
-4. [Links](./contents/links)
-5. [Lists](./contents/lists)
-6. [Images](./contents/images)
-
-### CSS
-1. [Color](./contents/color)
-2. [Text](./contents/text)
-3. [Font](./contents/font)
-4. [Span](./contents/span)
-5. [Afterword](./contents/afterword)
+2. [Adding the Theme Template](./contents/theme)
+3. [Changing the Background Color](./contents/backgroundcolor)
+4. [Changing the Color and Formatting of Links](./contents/linkcolor)
+5. [Adding Borders to Images](./contents/imageborder)
+6. [Add the Search Bar](./contents/searchbar)
+7. [Add Likes and Learn to Use the Tumblr Documention](./contents/likes)
+8. [Afterward](./contents/afterward)

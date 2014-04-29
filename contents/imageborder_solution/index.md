@@ -1,11 +1,14 @@
 ---
 layout: main
-title: Starting HTML
+title: Adding Image Borders - Solution
 ---
 
-# HTML
+# Adding Image Borders - Solution
 
-Open up your text editor and type the following code. Save the file you just created as `page.html`. Now open `page.html` with a web browser. As a result of the code in the left panel, you should see the page in the right panel.
+Remember, the code for images is: 
+<pre><xmp> <img href="[URL HERE]"/> </xmp></pre>
+
+
 <br></br>
 
 <div class="row">
