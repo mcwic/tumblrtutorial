@@ -17,7 +17,8 @@ Thus, you're looking in the CSS for the img selector (lines 54 to 56).
       </div>
       <div class="panel-body">
         <pre><code>
-         <b>img{  
+         <b>
+         img{  
 		        max-width: 100%;
 		     }</b>
           </code></pre>
