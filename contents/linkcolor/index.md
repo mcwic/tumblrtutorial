@@ -15,9 +15,9 @@ Can you change the color and appearance of the links on your Tumblr page? Can yo
   <div class="col-md-1">
     <a href="../backgroundcolor"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
-  iv class="row">
+ <div class="row">
   <div class="col-md-1">
-    <a href="../linkcolor"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../imgborder"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 
