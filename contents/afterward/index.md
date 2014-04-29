@@ -15,8 +15,11 @@ Want to build more features into your Tumblr? Check out these resources:
 ---
 
 <div class="row">
+ <div class="col-md-1">
+    <a href="../likes"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+  </div>
   <div class="col-md-1">
-    <a href="http://mcwic.github.io/htmlblocks"><button type="button" class="btn btn-primary btn-lg">Back to Curriculum In A Box</button></a>
+    <a href="http://mcwic.github.io/htmlblocks"><button type="button" class="btn btn-primary btn-lg">Go to Curriculum In A Box</button></a>
   </div>
 </div>
 
