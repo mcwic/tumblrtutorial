@@ -11,9 +11,9 @@ The code is located between lines 211 & 216.
 
 <h2>This is what the code and Tumblr page look like before and after:</h2>
 <h3>Before:</h3>
-<img src="searchbefore.png"/>
+<img src="../searchbefore.png"/>
 <h3>After:</h3>
-<img src="searchafter.png"/>
+<img src="../searchafter.png"/>
 ---
 
 <div class="row">

@@ -10,7 +10,7 @@ Everyone loves to share images online! With the `<img>` tag, you can put images 
 The code for creating a search bar is already in the Tumblr code, you just need to find it, it will be contained within comment codes: 
 <pre> &lt;!-- CODE HERE --&gt;
 </pre>
-You should delete the <pre><xmp> &lt;!-- </xmp></pre>
+You should delete the <pre> &lt;!-- </pre>
 And the:
 <pre>  --&gt; </pre>
 The Tumblr documentation on search is available [here](http://www.tumblr.com/docs/en/custom_themes#search). You should look for the code shown in the example in your tumblr theme:

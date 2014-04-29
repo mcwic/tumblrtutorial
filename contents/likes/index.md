@@ -24,7 +24,7 @@ You should be able to start by just adding the relevant HTML code for a Likes bu
     <a href="../search"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
   <div class="col-md-1">
-    <a href="../afterword"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../afterward"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
   </div>
 </div>
 

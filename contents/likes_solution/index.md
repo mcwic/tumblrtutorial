@@ -8,7 +8,7 @@ title: Adding a Like Button & Learning to Use Tumblr Documentation - Solution
 To add a display of your Likes to your Tumblr page, you want to copy and paste the HTML code shown in the [Tumblr documentation](http://www.tumblr.com/docs/en/custom_themes#likes) here. 
 
 <pre><xmp>
-{block:Likes}
+      {block:Likes}
             <div id="likes_container">
                 <h2>Stuff I like</h2>
 
