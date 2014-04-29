@@ -36,17 +36,19 @@ This selector will be in the body section of the css (lines 31 to 38):
   </div>
 </div>
 
-You want to change the italicized word in the bold line. You can write in a hexadecimal number for the color (see <a href="https://www.youtube.com/watch?v=BiJQqtqapD0&index=11&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt">here</a> for more information on hex) or you can write in a different color word, such as purple or red.
+You want to change the italicized word in the bold line. You can write in a hexadecimal number for the color (see <a href="https://www.youtube.com/watch?v=BiJQqtqapD0&index=11&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt">here</a> for more information on hex) or you can write a different color word, such as purple or red instead of green.
 
-Can you find other colors (like text colors) that you can change on your Tumblr page?
+What it will look like in Tumblr:
+Before:
+<img src="backgroundcolorBefore.png"/>
+
+After:
+<img src="backgroundcolorAfter.png"/>
 ---
 
 <div class="row">
   <div class="col-md-1">
-    <a href="../images"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
-  </div>
-  <div class="col-md-1">
-    <a href="../text"><button type="button" class="btn btn-primary btn-lg">Next</button></a>
+    <a href="../backgroundcolor"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
   </div>
 </div>
 
