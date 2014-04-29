@@ -15,3 +15,6 @@ title: Tumblr Tutorial
 6. [Search Bar](./contents/search)
 7. [Likes & Tumblr Documention](./contents/likes)
 8. [Afterward](./contents/afterward)
+
+<a href="../likes"><button type="button" class="btn btn-primary btn-lg">Back</button></a>
+  
