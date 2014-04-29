@@ -39,11 +39,12 @@ This selector will be in the body section of the css (lines 31 to 38):
 You want to change the italicized word in the bold line. You can write in a hexadecimal number for the color (see <a href="https://www.youtube.com/watch?v=BiJQqtqapD0&index=11&list=PLPpkJJSKXEJ11Mq8xjty3AZKldH9V48mt">here</a> for more information on hex) or you can write a different color word, such as purple or red instead of green.
 
 What it will look like in Tumblr:
+
 Before:
-<img src="backgroundcolorBefore.png"/>
+<img src="../backgroundcolorBefore.png"/>
 
 After:
-<img src="backgroundcolorAfter.png"/>
+<img src="../backgroundcolorAfter.png"/>
 ---
 
 <div class="row">

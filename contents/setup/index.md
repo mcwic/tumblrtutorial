@@ -9,13 +9,13 @@ title: Setting Up Your Tumblr Blog
 <li> Follow at least three blogs.</li>
 
 <img src="../tumblrStep2.png"/>
-
+<br>
 <li> Reblog at least three posts.</li>
-
-<li> When asked about getting the Tumblr app, select "I'll get it later"</li>
+<br>
+<li> When asked about getting the Tumblr app, select "I'll get it later":</li>
 
 <img src="../tumblrStep3.png"/>
-
+<br>
 <li> Click "Customize" on the right panel.</li>
 
 <img src="../tumblrStep4.png"/>
