@@ -28,13 +28,13 @@ Thus, you're looking in the CSS for the img selector (lines 54 to 56).
 </div>
 
 You want to add to the code in the bold section. Lets say we want a dashed border, then we need:
-<pre><xmp> border-style: dashed; </pre></xmp>
+<pre><xmp> border-style: dashed; </xmp></pre>
 
 We can also specify the border color and width:
 <pre><xmp>
   border-color: red;
   border-width: 5px;
-</pre></xmp>
+</xmp></pre>
 
 <h2>Putting this all together, this is what your Tumblr code and page will look like before and after your modifications:</h2>
 
