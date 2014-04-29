@@ -6,12 +6,12 @@ title: Tumblr Tutorial
 # Table of Contents
 
 ### Tumblr
-0. [Creating a Tumblr Account](./contents/start)
-1. [Setting up your Tumblr Blog](./contents/setup)
-2. [Adding the Theme Template](./contents/theme)
-3. [Changing the Background Color](./contents/backgroundcolor)
-4. [Changing the Color and Formatting of Links](./contents/linkcolor)
-5. [Adding Borders to Images](./contents/imageborder)
-6. [Add the Search Bar](./contents/searchbar)
-7. [Add Likes and Learn to Use the Tumblr Documention](./contents/likes)
+0. [Getting Started](./contents/start)
+1. [Setup](./contents/setup)
+2. [Theme Creation](./contents/theme)
+3. [Background Color](./contents/backgroundcolor)
+4. [Links](./contents/linkcolor)
+5. [Image Borders](./contents/imageborder)
+6. [Search Bar](./contents/searchbar)
+7. [Likes & Tumblr Documention](./contents/likes)
 8. [Afterward](./contents/afterward)
