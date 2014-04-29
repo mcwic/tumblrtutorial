@@ -11,7 +11,7 @@ title: Adding the Theme Template
 <br><br>
 <li> Copy all of the HTML from mcwic.github.io/htmlblocks/tumblrTheme.html </li>
 <br><br>
-<li> Replace the code on the Tumblr page with the code from mcwic.github.io/htmlblocks/tumblrTheme.html </li>
+<li> Replace the code on the Tumblr page with the code from [here](mcwic.github.io/htmlblocks/tumblrTheme.html) </li>
 </ul>
 
 <h3>Before:</h3>

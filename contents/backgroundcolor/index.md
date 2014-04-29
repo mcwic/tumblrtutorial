@@ -5,7 +5,7 @@ title: Changing the Background Color
 
 # Changing the Background Color
 
-Try to change the background color on the Tumblr page. If you don't remember how to change background color, refer <a href="http://mcwic.github.io/htmlblocks/htmlBuildingBlocks.html">here</a>.
+Try to change the background color on the Tumblr page. If you don't remember how to change background color, refer [here](http://mcwic.github.io/htmlblocks/htmlBuildingBlocks.html).
 
 After you have changed the code, click "Update Preview"" and then click "Save" to keep your changes.
 
