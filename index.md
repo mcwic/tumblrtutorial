@@ -16,5 +16,5 @@ title: Tumblr Tutorial
 7. [Likes & Tumblr Documention](./contents/likes)
 8. [Afterward](./contents/afterward)
 
-<a href="../likes"><button type="button" class="btn btn-primary btn-lg">Back to Curriculum In A Box</button></a>
+<a href="http://mcwic.github.io/htmlblocks"><button type="button" class="btn btn-primary btn-lg">Back to Curriculum In A Box</button></a>
   
