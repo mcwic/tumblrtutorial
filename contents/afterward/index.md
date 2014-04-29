@@ -11,6 +11,7 @@ Want to build more features into your Tumblr? Check out these resources:
 <li>[1st Web Designer Tutorials](http://www.1stwebdesigner.com/tutorials/how-to-create-tumblr-theme/): A great explaination of the Tumblr Documentation</li>
 <li>[W3 Schools](http://www.w3schools.com/): Although not specifically designed for Tumblr, w3 schools contains a wealth of CSS and HTML information that you can use to spruce up your page.
 </li>
+</ul>
 ---
 
 <div class="row">
