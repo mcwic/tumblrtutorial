@@ -16,5 +16,10 @@ title: Tumblr Tutorial
 7. [Likes & Tumblr Documention](./contents/likes)
 8. [Afterward](./contents/afterward)
 
+### Creating A Programming Portfolio in Tumblr
+1. [Linking to Scratch Files](./contents/scratch)
+2. [Linking to HTML Files](./contents/html)
+3. [Sharing your Portfolio](./contents/sharing)
+
 <a href="http://mcwic.github.io/htmlblocks"><button type="button" class="btn btn-primary btn-lg">Back to Curriculum In A Box</button></a>
   
