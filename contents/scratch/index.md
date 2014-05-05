@@ -8,12 +8,16 @@ title: Linking to Scratch Files
 You can add a link to your Scratch projects in Tumblr. 
 
 To do so follow the following steps:
-- Click on "Link" 
+<ul> 
+<li>Click on "Link" </li>
 <img src="../tumblrLink.png"/>
-- Paste the URL of your Scratch project into the URL box on Tumblr
-- Describe your Scratch Project
+<br><br>
+<li> Paste the URL of your Scratch project into the URL box on Tumblr </li>
+<br><br>
+<li> Describe your Scratch Project </li>
 <img src="../tumblrLinkSecond.png"/>
-- Click Post
+<br><br>
+<li>Click Post</li>
 
 ---
 

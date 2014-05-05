@@ -6,9 +6,11 @@ title: HTML Files
 # HTML Files
 
 You can chose to 
-1) Paste a copy of your HTML code on your Tumblr page
+<ol>
+<li> Paste a copy of your HTML code on your Tumblr page</li>
 or
-2) Host your HTML code online as a live website and link to both the live website and your code using a GitHub account.
+<li>Host your HTML code online as a live website and link to both the live website and your code using a GitHub account.</li>
+</ol>
 
 Option 2 will take a bit of work to set up.
 
@@ -45,13 +47,13 @@ In order to publish your HTML files that you have on your computer to the intern
 
 <li> Click on branch and type gh-pages:</li>
 <img src="../newbranchgithub.png"/>
-
+<br><br>
 <li> Make sure that you are in the gh-pages branch. Click to create a new file.</li>
 <img src="../newfilegithub.png"/>
-
+<br><br>
 <li> Name the file index.html and Paste the code for your website into this file. </li>
 <img src="../creatingindexhtml.png"/>
-
+<br><br>
 <li> Scroll to the bottom and click Commit new file.</li>
 
 <li> Within 10 minutes your file will be displayed at http://[username].github.io/[repository]
