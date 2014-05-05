@@ -5,17 +5,18 @@ title: Setting Up Your Tumblr Blog
 
 # Setting Up Your Tumblr Blog
 
-1. Follow at least three blogs.
+<ul>
+<li> Follow at least three blogs.</li>
 
 <img src="../tumblrStep2.png"/>
 
-2. Reblog at least three posts.
+<li> Reblog at least three posts.</li>
 
-3. When asked about getting the Tumblr app, select "I'll get it later"
+<li> When asked about getting the Tumblr app, select "I'll get it later"</li>
 
 <img src="../tumblrStep3.png"/>
 
-4. Click "Customize" on the right panel.
+<li> Click "Customize" on the right panel.</li>
 
 <img src="../tumblrStep4.png"/>
 
