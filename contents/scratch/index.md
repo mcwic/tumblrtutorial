@@ -18,7 +18,7 @@ To do so follow the following steps:
 <img src="../tumblrLinkSecond.png"/>
 <br><br>
 <li>Click Post</li>
-
+</ul>
 ---
 
 <div class="row">
